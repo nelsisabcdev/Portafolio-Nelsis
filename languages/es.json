@@ -1,0 +1,14 @@
+{
+    "profile":{
+        "rol":"Desarrollador Front-end",
+        "description":"Comunicador social, con más de 5 años de experiencia en Marketing Digital. Entusiasta de la programación. Cazador de tendencias y amante de la innovación."
+    },
+    "hobbies":{
+        "first-hob-title":"Pasatiempos",
+        "second-hob-title":"Aprender",
+        "hob-description":"Soy curiosa por naturaleza, mi hobby es pensar, hacerme preguntas y buscar respuestas, esto me ha permitido aprender muchas habilidades nuevas que aplico en mi profesión como comunicadora social y terminó llevándome a estudiar programación. Sé que mi curiosidad me llevará a grandes proyectos y disfrutaré el proceso de investigar, probar, errar y corregir, hasta encontrar la mejor solución." 
+    },
+    "cart1":{
+        "cart1-small":"Años de experiencia"
+    }
+}
